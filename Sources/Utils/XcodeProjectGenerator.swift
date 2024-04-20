@@ -4,11 +4,7 @@
 //
 //  Created by Damian on 18.04.2024.
 //
-#if os(Linux)
-    import Glibc
-#else
-    import Darwin.C
-#endif
+
 import Foundation
 import ZIPFoundation
 
