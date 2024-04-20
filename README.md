@@ -8,7 +8,7 @@ A command-line utility for creating an old-style watchOS project.
 # Usage
 ### Generate Legacy WatchOS project
 ```
-USAGE: wk-project generate <name> [<output-path>]
+USAGE: swift run wk-project generate <name> [<output-path>]
 
 ARGUMENTS:
   <name>                  Project name
